@@ -1,0 +1,1 @@
+analyser.d: ../analyser.c
